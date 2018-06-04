@@ -9,7 +9,7 @@ end
 
 def actor
 	actor = {
-		:name => "Dawyne The Rock Johnson"
+		:name => "Dwayne The Rock Johnson"
 	}
 # binding.pry
 	actor

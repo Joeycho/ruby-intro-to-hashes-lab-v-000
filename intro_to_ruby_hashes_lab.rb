@@ -9,7 +9,7 @@ def actor
 	actor = {
 		:name 'Dawyne The Rock Johnson'
 	}
-
+	actor
 end
 
 def monopoly

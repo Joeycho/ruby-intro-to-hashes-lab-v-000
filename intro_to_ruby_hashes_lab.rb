@@ -22,7 +22,7 @@ def monopoly
 
 		}
 	}
-	binding.pry
+#	binding.pry
 	monopoly
 end
 #

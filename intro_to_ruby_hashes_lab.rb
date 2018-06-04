@@ -1,3 +1,5 @@
+require 'pry'
+
 def new_hash
 	empty_hash ={
 
@@ -9,6 +11,7 @@ def actor
 	actor = {
 		:name => 'Dawyne The Rock Johnson'
 	}
+	binding.pry
 	actor
 end
 
